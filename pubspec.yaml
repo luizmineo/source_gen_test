@@ -1,0 +1,5 @@
+name: source_gen_mustache
+version: 0.0.1
+author: Luiz Mineo
+dependencies:
+  source_gen: any
